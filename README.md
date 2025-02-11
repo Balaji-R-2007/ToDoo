@@ -1,4 +1,4 @@
-# 📌 MERN To-Do App with Profile Feature
+# 📌 ToDoo(MERN To-Do App with Profile Feature)
 
 ## 🚀 Overview
 This is a **MERN (MongoDB, Express, React, Node.js)** stack To-Do application with a user profile feature. Users can create an account, manage their tasks, and update their profiles.
