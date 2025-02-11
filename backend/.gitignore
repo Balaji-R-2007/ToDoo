@@ -1,2 +1,6 @@
 node_modules
 .env
+credentials.json
+serviceAccount.json
+config.json
+# Any other files containing sensitive information
